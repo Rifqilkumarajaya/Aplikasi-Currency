@@ -13,7 +13,7 @@
 Jawab : agar lebih pendek source codenya dan lebih mudah dibaca codenya jika ada code yang error maka akan lebih mudah untuk memperbaikinya atau untuk mengembangkan aplikasi
 
 3. Jelaskan kegunaan method isAllowed pada percobaan 4!
-Jawaba : untuk memvalidasi inputan user
+Jawab : untuk memvalidasi inputan user
 
 4. Jelaskan secara singkat mengenai Regex pada percobaan 4!
 Jawab : digunakan untuk menemukan karakter apa pun yang bukan digit. Digit di dalam tanda kurung dapat berupa angka atau rentang angka dari 0 hingga 9.
